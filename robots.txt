@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://imutaihi.github.io/FiM/sitemap_index.txt
+Sitemap: https://imutaihi.github.io/oNf/sitemap_index.txt
+Sitemap: https://imutaihi.github.io/qYt/sitemap_index.txt
+Sitemap: https://imutaihi.github.io/xkn/sitemap_index.txt
